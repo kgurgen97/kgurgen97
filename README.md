@@ -26,12 +26,12 @@ My research interests span computational and molecular approaches to studying ge
 - Reproducible bioinformatics workflows
 
 
+
 ## Research profiles
 
 - [Google Scholar](https://scholar.google.com/citations?hl=ru&user=DuhHgykAAAAJ)
 - [ORCID](https://orcid.org/0009-0005-5509-2576)
 - [LinkedIn](https://www.linkedin.com/in/gurgen-karapetyan-172612274/)
-
 - 
 ##  projects
 
