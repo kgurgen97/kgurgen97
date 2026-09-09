@@ -25,19 +25,16 @@ My research interests span computational and molecular approaches to studying ge
 - Biological data analysis
 - Reproducible bioinformatics workflows
 
-## Research profiles
 
 ## Research profiles
 
 - [Google Scholar](https://scholar.google.com/citations?hl=ru&user=DuhHgykAAAAJ)
 - [ORCID](https://orcid.org/0009-0005-5509-2576)
 - [LinkedIn](https://www.linkedin.com/in/gurgen-karapetyan-172612274/)
-## Selected projects
 
-### Lactobacilli oxidative-stress genomics
+- 
+##  projects
 
-Comparative genomics of oxidative-stress response, DNA-repair systems, and genome-level variation in probiotic Lactobacillus species.
+### [Lactobacilli oxidative-stress genomics](https://github.com/kgurgen97/lactobacilli-oxidative-stress-genomics)
 
-### Framework for Mapping
-
-A reproducible computational framework for the analysis and mapping of gut microbial taxa across large microbiome datasets.
+### [Framework for Mapping](https://github.com/kgurgen97/-Framework-for-Mapping)
