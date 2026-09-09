@@ -27,10 +27,11 @@ My research interests span computational and molecular approaches to studying ge
 
 ## Research profiles
 
-- [Google Scholar](YOUR_LINK)
-- [ORCID](YOUR_LINK)
-- [LinkedIn](YOUR_LINK)
+## Research profiles
 
+- [Google Scholar](https://scholar.google.com/citations?hl=ru&user=DuhHgykAAAAJ)
+- [ORCID](https://orcid.org/0009-0005-5509-2576)
+- [LinkedIn](https://www.linkedin.com/in/gurgen-karapetyan-172612274/)
 ## Selected projects
 
 ### Lactobacilli oxidative-stress genomics
