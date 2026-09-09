@@ -1,16 +1,42 @@
-## Hi there 👋
+# Gurgen Karapetyan
 
-<!--
-**kgurgen97/kgurgen97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bioinformatics Data Engineer and Researcher  
+PhD Student working at the intersection of Bioinformatics, Computational Genomics, Molecular Biology, and Microbiology
 
-Here are some ideas to get you started:
+I work with genomic and sequencing data, with a focus on next-generation sequencing (NGS), RNA-seq, metagenomics, comparative genomics, microbial genomics, and bioinformatics data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research interests span computational and molecular approaches to studying genomes, gene expression, microbial diversity, genome evolution, DNA repair, oxidative stress, and biological data interpretation.
+
+## Research interests
+
+- Bioinformatics
+- Computational genomics
+- Molecular biology
+- Microbiology
+- Genomics
+- Next-generation sequencing (NGS)
+- RNA-seq and transcriptomics
+- Metagenomics
+- Comparative genomics
+- Microbial genomics
+- Genome evolution
+- DNA repair and genome stability
+- Oxidative stress biology
+- Biological data analysis
+- Reproducible bioinformatics workflows
+
+## Research profiles
+
+- [Google Scholar](YOUR_LINK)
+- [ORCID](YOUR_LINK)
+- [LinkedIn](YOUR_LINK)
+
+## Selected projects
+
+### Lactobacilli oxidative-stress genomics
+
+Comparative genomics of oxidative-stress response, DNA-repair systems, and genome-level variation in probiotic Lactobacillus species.
+
+### Framework for Mapping
+
+A reproducible computational framework for the analysis and mapping of gut microbial taxa across large microbiome datasets.
